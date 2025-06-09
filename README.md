@@ -77,7 +77,7 @@
 
     Инструкция по запуску:    
 ```bash
-git clone https://github.com/quadr1x/-.git
+git clone https://github.com/quadr1x/ZXc.git
 cd chalenge/Название_проекта
 start НазваниеПроекта.sln
 ```
